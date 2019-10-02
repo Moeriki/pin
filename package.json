@@ -1,7 +1,6 @@
 {
-  "name": "pin",
+  "name": "volta-pin",
   "version": "1.0.0",
-  "private": true,
   "license": "MIT",
   "bin": {
     "pin": "cli.js"
